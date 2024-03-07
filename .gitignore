@@ -1,0 +1,4 @@
+#ignore latex stuff
+*.pdf
+*.log
+*.aux
