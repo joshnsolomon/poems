@@ -1,4 +1,4 @@
 # poems
 ________
 
-Some poems typeset in $\LaTeX$, requires the verse package to run 
+Some poems typeset in $\LaTeX$, requires the LaTeX Verse package to run. 
